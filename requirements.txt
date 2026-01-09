@@ -2,6 +2,3 @@ streamlit
 pandas
 plotly
 scikit-learn
-json
-zipfile
-io
